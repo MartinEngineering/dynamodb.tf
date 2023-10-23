@@ -1,0 +1,2 @@
+# dynamodb.tf
+#dynamodb table 
